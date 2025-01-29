@@ -1,0 +1,20 @@
+{
+	"title": {
+	  "us": "Create a Blog from Scratch with Next.js and Markdown",
+	  "es": "Crea un Blog desde Cero con Next.js y Markdown"
+	},
+	"slug": "create-blog-nextjs-markdown",
+	"status": "published",
+	"duration": 4,
+	"template_url": "",
+	"translations": ["es", "us"],
+	"difficulty": "intermediate",
+	"technologies": ["javascript", "nextjs", "markdown", "generative-ai"],
+	"description": {
+	  "us": "Learn how to create a fully functional blog with Next.js and Markdown! Use AI to generate content and improve your web development skills.",
+	  "es": "Aprende a crear un blog completamente funcional con Next.js y Markdown. Usa IA para generar contenido y mejora tus habilidades de desarrollo web."
+	},
+	"autoPlay": false,
+	"projectType": "project"
+  }
+  
