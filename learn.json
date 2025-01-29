@@ -6,7 +6,7 @@
 	"slug": "create-blog-nextjs-markdown",
 	"status": "published",
 	"duration": 4,
-	"template_url": "",
+	"preview": "https://storage.googleapis.com/media-breathecode/26f47c539d94203d6249f47363f1d39c1c15b29f9f33802557891ceb6b4850c6",
 	"translations": ["es", "us"],
 	"difficulty": "intermediate",
 	"technologies": ["javascript", "nextjs", "markdown", "generative-ai"],
